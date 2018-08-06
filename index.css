@@ -1,0 +1,71 @@
+.containerbg{
+     background-image: url(https://images.pexels.com/photos/163130/keyboard-black-notebook-input-163130.jpeg?auto=compress&cs=tinysrgb&h=350);
+    background-size: cover;
+  
+}
+.col1bc{
+ background-color: white   
+}
+.img{
+    width: 11vmin;
+    height: 11vmin;
+}
+.contactsmargin{
+    margin-bottom: 2vmin
+}
+.navi{
+    margin-right: 0%
+}
+.imgpadding{
+      margin-top: 5%;
+    padding: 2%
+}
+.border{
+    border : 1px solid black;
+    padding: 2vmin;
+    margin: 0vmin;
+}
+
+.marginleft{
+    margin-left: 40vmin
+}
+.margintop{
+    margin-top: 4vmin
+}
+.marginbottom{
+    margin-bottom: 6vmin
+}
+.marginright{
+    margin-right: 0vmiv
+}
+
+
+
+
+@media (max-width: 576px) {
+    
+    .hide{
+        display: none;
+    }
+    
+    .marginbottom{
+    margin-bottom: 42vmin;
+ 
+}
+    .marginright{
+    margin-right: 4vmin
+}
+    .marginleft{
+        margin-left:4vmin 
+    }
+    
+
+    .show{
+        display: block;
+    }
+    .text{
+        margin-left: 0;
+        margin-right: 0
+    }
+}
+
